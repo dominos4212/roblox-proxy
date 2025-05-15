@@ -4,8 +4,6 @@
 // Would of preferred to use JSON, but CF doesn't allow `require("fs")`
 const domains = [
     "apis",
-    "v1",
-    "v2",
     "assetdelivery",
     "avatar",
     "badges",
